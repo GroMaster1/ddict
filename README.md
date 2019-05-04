@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ca054942568048c7a255e06940463278)](https://app.codacy.com/app/gromaster1111/gromaster1111-gmail.com?utm_source=github.com&utm_medium=referral&utm_content=GroMaster1/gromaster1111-gmail.com&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/rbehzadan/ddict.svg?branch=master)](https://travis-ci.org/rbehzadan/ddict)
 [![Coverage Status](https://coveralls.io/repos/github/rbehzadan/ddict/badge.svg)](https://coveralls.io/github/rbehzadan/ddict)
 # DotAccessDict
